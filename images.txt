@@ -1,6 +1,1 @@
 ghcr.io/snowdreamtech/frps:nightly-alpine3.20
-https://quay.io/v2/:minio
-https://quay.io/v2/:redis
-https://quay.io/v2/:es01
-https://quay.io/v2/:mysql
-https://quay.io/v2/:ragflow
