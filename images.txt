@@ -1,2 +1,1 @@
-nginx
-aplane
+https://github.com/infiniflow/ragflow.git
