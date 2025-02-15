@@ -1,1 +1,1 @@
-https://github.com/infiniflow/ragflow.git
+infiniflow/ragflow.git
