@@ -1,1 +1,1 @@
-infiniflow/ragflow.git
+ragflow.git
